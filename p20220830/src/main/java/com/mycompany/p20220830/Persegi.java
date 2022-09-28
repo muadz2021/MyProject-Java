@@ -18,7 +18,7 @@ int sisi;
     }
 }
 
-public static void main(String[] args) {
+public static void (int[] args) {
     Persegi p1 = new Persegi();
     p1.sisi = 5;
     p1.hitungKeliling();
